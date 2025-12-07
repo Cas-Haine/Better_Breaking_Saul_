@@ -1,0 +1,172 @@
+body {
+    background-color: #aa1340;
+}
+h1 {
+    text-align: center;
+    margin-top: 65px;
+    font-size: 50px;
+    color: #ffffff;
+    font-family: 'JMNexusGrotesqueRegular',serif;
+    font-weight: bold;
+    font-style: normal;
+    text-shadow: 3px 2px black;
+}
+.ligne {
+    width: 250px;
+    height: 4px;
+    background-color: #ffffff;
+    margin: 20px auto 0;
+    border-radius: 2px;
+}
+h2 {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 0.5;
+}
+.image-gauche-bb img {
+    float: left;
+    margin-bottom: 20px;
+    width: 250px;
+    height: auto;
+    border: 6px solid #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(45,34,34,0.3);
+    margin-left: 250px;
+    margin-top: 200px;
+}
+.image-droite-bcs img {
+    float: right;
+    margin-bottom: 20px;
+    width: 250px;
+    height: auto;
+    border: 6px solid #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(45,34,34,0.3);
+    margin-right: 250px;
+    margin-top: -350px;
+}
+.cadre-bb {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 400px;
+    min-height: 150px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+p {
+    font-family:'DancingScriptRegular';
+    color: #556419;
+    text-align: center;
+}
+.cadre-bcs {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 400px;
+    min-height: 200px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+.cadre-mixe1 {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 800px;
+    min-height: 150px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+.cadre-mixe2 {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 800px;
+    min-height: 150px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+.cadre-mixe3 {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 800px;
+    min-height: 150px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+.cadre-mixe4 {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 800px;
+    min-height: 150px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+.image-gauche img {
+    float: left;
+    margin-bottom: 20px;
+    width: 350px;
+    height: auto;
+    border: 6px solid #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(45,34,34,0.3);
+    margin-left: 150px;
+    margin-top: 85px;
+}
+.image-droite img {
+    float: right;
+    margin-bottom: 20px;
+    width: 300px;
+    height: auto;
+    border: 6px solid #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(45,34,34,0.3);
+    margin-right: 200px;
+    margin-top: -220px;
+}
+.cadre-info1 {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 400px;
+    min-height: 200px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+.cadre-info2 p {
+    font-family:'LinuxLibertineDisplayRegular';
+    text-align: left !important;
+    width: 400px;
+    min-height: 200px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    margin: 40px auto;
+}

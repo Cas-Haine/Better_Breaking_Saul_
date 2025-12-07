@@ -1,0 +1,153 @@
+body {
+    background-color: #a66b2f;
+}
+h1 {
+    text-align: center;
+    margin-top: 65px;
+    font-size: 50px;
+    color: #ffffff;
+    font-family: 'JMNexusGrotesqueRegular',serif;
+    font-weight: bold;
+    font-style: normal;
+    text-shadow: 3px 2px black;
+}
+.ligne {
+    width: 250px;
+    height: 4px;
+    background-color: #ffffff;
+    margin: 20px auto 0;
+    border-radius: 2px;
+}
+h2 {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 0.5;
+}
+.bloc-image-texte {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px;
+    max-width: 1100px;
+    margin: auto;
+}
+.image-gauche img {
+    width: 350px;
+    height: auto;
+    border: 6px solid #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(45,34,34,0.3);
+}
+.text-droite {
+    max-width: 600px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    text-align: justify;
+    font-size :16px;
+    font-family: 'CheyenneSansNovusRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+.blanc {
+    color: #613936;
+    justify-content: center;
+}
+h3 {
+    font-family:'SansitaRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0 6px 16px;
+}
+h4 {
+    font-family:'DancingScriptRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 12px;
+}
+.cadre {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 800px;
+    min-height: 400px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    margin: 40px auto;
+}
+p {
+    font-family:'DancingScriptRegular';
+    color: #a66b2f;
+    text-align: center;
+}
+.link {
+    color: #a66b2f;
+    font-size: 26px;
+    position: absolute;
+    text-decoration: none;
+}
+.link:hover {
+    opacity: 1;
+    color: #ffffff;
+}
+.issue4 {
+    bottom: -800px;
+    right: 150px;
+}
+.issue5 {
+    top: 150px;
+    left: 350px;
+}
+.issue7 {
+    top: 500px;
+    right: 100px;
+}
+.issue8 {
+    top: 620px;
+    left: 20px;
+}
+.issue9 {
+    top:950px;
+    right: 475px;
+}
+.issue10 {
+    bottom: 620px !important;
+    left: 50px;
+}
+.issue11 {
+    top: 1150px;
+    left: 150px;
+}
+.issue12 {
+    bottom: 620px;
+    right: 100px;
+}
+.note {
+    font-family:'LinuxLibertineDisplayRegular';
+    width: 560px;
+    min-height: 80px;
+    background-color:#d9d9d9;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(45, 34, 34, 0.3);
+    font-size :16px;
+    text-align: justify;
+    text-align: right;
+    margin: 40px auto;
+}
+.ajout {
+    display: block;
+   text-align: left !important;
+}
